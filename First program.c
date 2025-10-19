@@ -3,7 +3,7 @@
 int main(){
 	
 
-/*	char name[30] = "";
+	char name[30] = "";
 	int age = 0;
 	int semester = 0;
 	char course[30] = "";
@@ -39,7 +39,7 @@ int main(){
 	printf("Course: %s", course);
 	printf("Gender: %c\n", gender);
 
-	printf("Is this information right? [y/n]");*/
+	printf("Is this information right? [y/n]");
 
 	// Salary Calculator
 	
@@ -64,3 +64,4 @@ int main(){
 	
 	return 0;
 }
+
